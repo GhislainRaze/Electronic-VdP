@@ -27,6 +27,10 @@ For more infomation, see the [documentation file](DOC/Electronic_Duffing.pdf).
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
+## See also
+
+[An electronic Duffing oscillator](https://github.com/GhislainRaze/Electronic-Duffing)
+
 ## Disclaimer
 
 It is believed by the author that the design does not violate the Copyright of any other party. This cannot be guaranteed however, and the author accepts no liability for loss or damages that may be imposed upon the user by any Court of Law, statutory or other body, should it transpire that a similar circuit has been simultaneously or previously designed, published or patented by another party.
